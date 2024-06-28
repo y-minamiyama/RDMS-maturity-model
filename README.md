@@ -25,7 +25,9 @@ RDMサービス成熟度モデルは、「認知度」「データポリシー�
 (Coming soon)
 
 # 各国のRDMサービス成熟度モデル
-(Coming soon)
+- [CARDIO（英）](https://www.dcc.ac.uk/resources/tools/cardio)：データ管理戦略立案のためのベンチマークツール。JISC が資金を提供した「統合データ管理計画（IDMP）ツールキット・サポート」プロジェクトを通じて開発され、部局または研究グループレベルでの適用を想定している。
+- [RDM Planning MAT（豪）](https://doi.org/10.26195/xv24-cr59)：研究データ管理の成熟度評価に関する計画立案を支援するツール。豪ARDCのInstitutional Underpinningsプログラムの一環としてUniversity of Technology Sydneyが開発しており、主に機関レベルでの適用を想定している。
+- [RDS Maturity Model（米）](https://doi.org/10.14288/1.0343479)：研究データサービス導入の方向性、短期目標、及び将来計画策定を支援するツール。米ARL参加図書館へのインタビュー分析を通じて開発され、主に機関レベルでの適用を想定している。
 
 # 関連サイト
 - [大学ICT推進協議会 研究データマネジメント部会（AXIES-RDM部会）](https://rdm.axies.jp/)
