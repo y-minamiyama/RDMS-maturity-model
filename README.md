@@ -32,7 +32,9 @@ RDMサービス成熟度モデルは、「認知度」「データポリシー�
 - [オープンアクセスリポジトリ推進協会（JPCOAR）](https://jpcoar.repo.nii.ac.jp/)
 
 # References
-1. オープンアクセスリポジトリ推進協会. 国内機関における研究データ管理の取り組み状況調査, 2022. SSJデータアーカイブ, 2024. https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=1588
-2. オープンアクセスリポジトリ推進協会. 国内機関における研究データ管理の取り組み状況調査, 2020. SSJデータアーカイブ, 2024. https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=1587
-3. 南山泰之, 池内有為, 田辺浩介, 結城憲司, 林和弘, 青木学聡. 研究データ管理サービス構築状況の自己評価フレームワーク設計. 情報処理学会研究報告, Vol.2023-IOT-60, No.23, pp.1-10, 2023.
-4. 池内 有為, 林和弘. 日本の研究機関における研究データ管理（RDM）の実践状況 －オープンサイエンスの実現に向けた課題と展望－. STI Horizon, Vol.8, No.1, pp.50-55, 2022. https://doi.org/10.15108/stih.00287
+1. Minamiyama, Y., Ikeuchi, U., Tanabe, K., Yuki, K., Hayashi, K. and Aoki, T. (2025) ‘Maturity Model for Organizational Research Data Management Services’, Data Science Journal, 24(), p. 18. Available at: [https://doi.org/10.5334/dsj-2025-018](https://doi.org/10.5334/dsj-2025-018).
+2. 池内 有為，南山 泰之，林 和弘. 日本の研究機関における研究データ管理（RDM）の実践状況2022－経年変化と課題－. STI Horizon, Vol.10, No.3, pp.30-36, 2024. [https://doi.org/10.15108/stih.00383](https://doi.org/10.15108/stih.00383)
+3. オープンアクセスリポジトリ推進協会. 国内機関における研究データ管理の取り組み状況調査, 2022. SSJデータアーカイブ, 2024. [https://doi.org/10.34500/SSJDA.1588](https://doi.org/10.34500/SSJDA.1588)
+4. オープンアクセスリポジトリ推進協会. 国内機関における研究データ管理の取り組み状況調査, 2020. SSJデータアーカイブ, 2024. [https://doi.org/10.34500/SSJDA.1587](https://doi.org/10.34500/SSJDA.1587)
+5. 南山泰之, 池内有為, 田辺浩介, 結城憲司, 林和弘, 青木学聡. 研究データ管理サービス構築状況の自己評価フレームワーク設計. 情報処理学会研究報告, Vol.2023-IOT-60, No.23, pp.1-10, 2023.
+6. 池内 有為, 林和弘. 日本の研究機関における研究データ管理（RDM）の実践状況 －オープンサイエンスの実現に向けた課題と展望－. STI Horizon, Vol.8, No.1, pp.50-55, 2022. [https://doi.org/10.15108/stih.00287](https://doi.org/10.15108/stih.00287)
